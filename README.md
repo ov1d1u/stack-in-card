@@ -1,3 +1,5 @@
+## Note: outdated, use https://github.com/stickpin/stack-in-card instead
+
 # Stack In Card by [@RomRider](https://www.github.com/RomRider)
 
 A replacement for [vertical-stack-in-card](https://github.com/ofekashery/vertical-stack-in-card) and `horizontal-stack-in-card`
